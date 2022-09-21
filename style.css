@@ -3,17 +3,17 @@
   }
   
   .title {
-    color: darkblue;
+    color: orangered;
   }
   
   #email {
-    background-color: goldenrod;
+    background-color: yellow;
   }
   
   #github {
-    background-color: lightsteelblue;
+    background-color: blanchedalmond;
   }
   
   #portfolio {
-    background-color: darkorange;
+    background-color: lightcoral;
   }
